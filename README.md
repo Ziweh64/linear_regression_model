@@ -18,6 +18,12 @@ AI Tools: ChatGPT for Rust syntax clarification and debugging hints.
 # Results and Lessons Learned
 The project did not run because of Rust and Cargo were not installed correctly and the required Visual Studio Build Tools were missing on Windows. Syntax errors, incorrect memory handling, or floating-point precision issues caused unexpected behavior. The main lesson learned is that Rust's strict ownership model requires careful management of memory and data references. Unlike Python, which has built-in libraries for ML, Rust requires more manual implementation, making it a good learning experience in handling low-level computations efficiently.
 
+# How Much Help I Received
+
+AI Assistance: Used for understanding Rust’s borrow checker and resolving ownership conflicts.
+Documentation: Rust’s official docs were essential for understanding Vec operations and iterators.
+Other Sources: Followed a few open-source Rust ML projects for best practices.
+
 
 
 
