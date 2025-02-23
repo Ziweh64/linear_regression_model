@@ -1,4 +1,4 @@
-# Linear_regression_model
+
 # Introduction
 This project implements a simple Linear Regression Model in Rust. The goal is to explore how machine learning concepts can be applied using Rust, a systems programming language known for its safety and performance.
 
